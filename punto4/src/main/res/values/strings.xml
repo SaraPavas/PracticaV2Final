@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Punto4</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="loggin">Loggin: </string>
+    <string name="password">Password: </string>7
+    <string name="RepPassword">Repetir Password: </string>
+    <string name="email">E-mail: </string>
+    <string name="sexo">Género: </string>
+    <string name="f">Femenino</string>
+    <string name="m">Masculino</string>
+    <string name="LugarDeNacimiento">Lugar De Nacimiento: </string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="nadar">Nadar</string>
+    <string name="leer">Leer</string>
+    <string name="cine">Ir a cine</string>
+    <string name="caminar">Caminar</string>
+    <string name="Aceptar">ACEPTAR</string>
+    <string name="titulo">Formulario\n</string>
+    <string-array name="ciudades_array">
+        <item>Lugar De Nacimiento</item>
+        <item>Medellin</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Pasto</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Punto3</string>
+    <string name="Titulo">Calcular Area\n</string>
+    <string name="mensaje">En este programa puede calcular el área de un cuadro, rectangulo, circulo y triangulo.
+        Elija la figura y a continuación llene los campos\n\n</string>
+    <string name="circulo">Circulo</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="radio">Radio :</string>
+    <string name="lado">Lado: </string>
+    <string name="base">Base: </string>
+    <string name="altura">Altura: </string>
+    <string name="calcular">CALCULAR</string>
+</resources>

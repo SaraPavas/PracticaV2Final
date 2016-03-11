@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Punto2</string>
+    <string name="Titulo">Calcular\n</string>
+    <string name="mensaje">En este programa puede realizar  las operaciones  de suma, resta, division y multiplicación
+    entre dos numeros. Ingrese ambos números y elija la operación que desea realizar\n\n</string>
+    <string name="numero1">Número 1</string>
+    <string name="numero2">Número 2</string>
+    <string name="suma"> Sumar </string>
+    <string name="resta"> Restar </string>
+    <string name="multiplicar"> Multiplicar </string>
+    <string name="Dividir"> Dividir</string>
+</resources>
